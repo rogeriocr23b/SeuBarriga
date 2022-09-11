@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PostSignin" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-11T20:39:51" hostname="ZUP-6050" time="0.01">
+  <properties/>
+  <testcase name="acessar cadastro" classname="PostSignin" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
